@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "979864846593",
+    "restype": "watchface",
+    "name": "暗夜图标包",
+    "description": "专为小米手环9 Pro打造的暗夜灰阶图标包，全套30枚96×96 RGBA图标。保留原版图标轮廓、圆角与抗锯齿细节，褪去繁杂色彩，统一黑白灰阶风格。简约柔和，暗光下观感舒适不刺眼，完美适配手环竖屏界面。图标线条干净利落，辨识度高，兼顾美观与实用性，搭配各类表盘都十分协调，给你的手环沉静低调的视觉体验。（目前仅适配9p版本3.1.187）",
+    "preview": [
+      "media/cover_1536x1024.png",
+      "media/preview_1_icons.png",
+      "media/preview_4_sizes.png",
+      "media/preview_2_app.png"
+    ],
+    "icon": "media/icon_480.png",
+    "cover": "media/cover_1536x1024.png",
+    "author": [
+      {
+        "name": "Augus240609",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/暗夜图标包_黑白灰阶_小米手环9Pro.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
